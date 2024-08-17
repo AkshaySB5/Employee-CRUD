@@ -1,2 +1,2 @@
 # Employee-CRUD
- Basic web app where we can Create,Update,Read and Delete employee details
+ Basic web app where we can Create,Update,Read and Delete employee details which leverages Java Springboot
