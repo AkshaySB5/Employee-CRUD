@@ -1,0 +1,10 @@
+        .App {
+            text-align: center;
+        }
+
+        body {
+            background-image: url('./image/blue.jpg');
+            background-size: cover;
+            height: 100vh;
+            color: #161636;
+        }
